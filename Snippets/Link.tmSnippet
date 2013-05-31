@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;a${1: href="${2:name}"}&gt;${0:$TM_SELECTED_TEXT}&lt;/a&gt;</string>
+	<string>&lt;a${1: href="${2:#link}"}&gt;${0:$TM_SELECTED_TEXT}&lt;/a&gt;</string>
 	<key>name</key>
 	<string>Link</string>
 	<key>scope</key>
