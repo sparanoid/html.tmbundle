@@ -1,14 +1,12 @@
-# Installation
+# Textmate HTML Bundle Modified
 
-You can install this bundle in TextMate by opening the preferences and going to the bundles tab. After installation it will be automatically updated for you.
+A fork of official TextMate HTML bundle, with more HTML5 snippets support.
 
-# General
+## Installation
 
-* [Bundle Styleguide](http://kb.textmate.org/bundle_styleguide) — _before you make changes_
-* [Commit Styleguide](http://kb.textmate.org/commit_styleguide) — _before you send a pull request_
-* [Writing Bug Reports](http://kb.textmate.org/writing_bug_reports) — _before you report an issue_
+Download the zipball, rename it to `html.tmbundle` and double click to install.
 
-# License
+## License
 
 If not otherwise specified (see below), files in this repository fall under the following license:
 
