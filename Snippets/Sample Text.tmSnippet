@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Hello ${1|world,universe|}</string>
+	<string>&lt;samp&gt;${0:$TM_SELECTED_TEXT}&lt;/samp&gt;</string>
 	<key>name</key>
 	<string>Sample Text</string>
 	<key>scope</key>
