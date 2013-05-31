@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Hello ${1|world,universe|}</string>
+	<string>&lt;rp&gt;${0:$TM_SELECTED_TEXT}&lt;/rp&gt;</string>
 	<key>name</key>
 	<string>Ruby Annotation Parenthesis</string>
 	<key>scope</key>

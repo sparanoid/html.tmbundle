@@ -3,7 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Hello ${1|world,universe|}</string>
+	<string>&lt;ruby&gt;
+	${0:$TM_SELECTED_TEXT} &lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;${1:Ashita}&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;</string>
 	<key>name</key>
 	<string>Ruby Annotation</string>
 	<key>scope</key>
